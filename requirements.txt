@@ -1,0 +1,7 @@
+notebook
+jupyterlab
+torch
+transformers
+datasets
+tokenizers
+ollama
